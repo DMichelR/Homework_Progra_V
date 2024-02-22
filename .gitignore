@@ -1,0 +1,5 @@
+.stack-work/
+stack.yaml.lock
+.stack-work/
+dist-newstyle/
+cabal.project.local
